@@ -19,10 +19,10 @@ Steve parents passionate about green energy but do not know much about it. They 
 The analysis shows the return investment for 99% of the stock was high in 2017. The DQ stock stands out as the daily volume was not so high but the return percentage was the highest for 2017 over all the other stocks. Overall, 2017 seems like a profitable year.
 2018 was an underperformed year except for two stocks. ENPH and RUN, both of which also made a profit the previous year but seems like ENPH still underperformed but RUN did very well in 2018 then in 2017 with both the daily volume and the return.
 
-![VBA_Challenge_2017](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
+![VBA_Challenge_2017](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_2017.PNG)
 
 
-![VBA_Challenge_2018](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+![VBA_Challenge_2018](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_2018.PNG)
 
 ## Summary:
 
@@ -36,7 +36,7 @@ The script run faster with the refactored code, but you can potentially introduc
 
 Refactoring the original code splitting up and labeling its functions will benefit, It easier to make it readable by adding more comments for us or whomever wants to use the code in the future. Since run times is shorter, it boosts the system's performance. 
 
-![Run_Time_2017 OriginalCode](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_Time_2017_O.PNG)
-![Run_Time_2018 OriginalCode](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_Time_2018_O.PNG)
-![Run_Time_2017 RefactorCode](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_Time_2017_R.PNG)
-![Run_Time_2018 RefactorCode](https://github.com/hira-ayub/Stock_Analysis/blob/main/Resources/VBA_Challenge_Time_2018_R.PNG)
+![Run_Time_2017 OriginalCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_20170.PNG)
+![Run_Time_2018 OriginalCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_20180.PNG)
+![Run_Time_2017 RefactorCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_2017R.PNG)
+![Run_Time_2018 RefactorCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_2018R.PNG)
