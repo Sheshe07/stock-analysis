@@ -2,7 +2,7 @@
 
 ## Overview of Project:
 
-Our Focus is on the stock to see the total daily volume and return. In 2017 all stocks did good except the TERP. The DQ stock did really well in 2017 with 199.4% return even though the daily volume was not so high. In 2018 only two company stocks did well ENPH & RUN. The daily volume was high for DQ in 2018 but return percentage was underperformed by -62.6%.
+This project was based on finding the stock value between 2017 and 2018. In 2017 all stocks did good except the for the ending. The DQ stock did really well in 2017 return even though so parts were still high. And in 2018 only two company stocks did well based on my findings. The daily volume was high for DQ in 2018 but return percentage were low. Using Excel VBA we were able to collect various stock information between the year 2017 and 2018. 
 
 ### Purpose:
 
@@ -10,7 +10,7 @@ The purpose of this Data Analysis for stock of green energies companies is to se
 
 ### Background:
 
-Steve parents passionate about green energy but do not know much about it. They decided to invest in a solar panel company named DAQO New Energy Corp. Steve has asked us to analyze the Green Energy and DAQO stock.
+Because Steve parents are so passionate about green energy, they asked Steve for help to help them analyze there stocks in 2017 and 2018. They decided to invest in a solar panel company named DAQO New Energy Corp. Steve on the other hand asked us to help him analyze the data.
 
 ## Results:
 
@@ -30,11 +30,11 @@ Essentially editing the existing code to determine if it will run faster than th
 
 ### Advantages & Disadvantages of Refactoring Code:
 
-The script run faster with the refactored code, but you can potentially introduce bugs that your tests will not catch. You can accidentally remove something or paste a redundant code.
+The script run faster with the refactored code, but you can potentially introduce bugs that your tests will not catch. When there are too many different data it can sometimes be complicated. You can remove something then find yourself adding it again with out noticing it.
 
 ### Advantages & Disadvantages of The Original & Refactored Code:
 
-Refactoring the original code splitting up and labeling its functions will benefit, It easier to make it readable by adding more comments for us or whomever wants to use the code in the future. Since run times is shorter, it boosts the system's performance. 
+Refactoring tend to make the data neater and more precise.  It easier to make it readable by adding more comments for us or whomever wants to use the code in the future. Because the run times is shorter, it help boosts the system's performance. And make it runs smoother.
 
 
 ![Run_Time_2017 OriginalCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_Time_2017O.png)
