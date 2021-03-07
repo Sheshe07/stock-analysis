@@ -36,14 +36,10 @@ The script run faster with the refactored code, but you can potentially introduc
 
 Refactoring the original code splitting up and labeling its functions will benefit, It easier to make it readable by adding more comments for us or whomever wants to use the code in the future. Since run times is shorter, it boosts the system's performance. 
 
-<<<<<<< HEAD
+
 ![Run_Time_2017 OriginalCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_Time_2017O.png)
 ![Run_Time_2018 OriginalCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_Time_2018O.png)
 ![Run_Time_2017 RefactorCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_Time_2017R.png)
 ![Run_Time_2018 RefactorCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_Time_2018R.png)
-=======
-![Run_Time_2017 OriginalCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_20170.PNG)
-![Run_Time_2018 OriginalCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_20180.PNG)
-![Run_Time_2017 RefactorCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_2017R.PNG)
-![Run_Time_2018 RefactorCode](https://github.com/Sheshe07/stock-analysis/tree/main/Resources/VBA_Challenge_2018R.PNG)
->>>>>>> f24ef783d379575ccd1e3e2c214e38a126da9265
+
+
