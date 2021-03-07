@@ -1,4 +1,4 @@
-# DAQO New Energy Corp Stock Analysis:
+# Green energy stock analysis:
 
 ## Overview of Project:
 
@@ -30,7 +30,7 @@ Essentially editing the existing code to determine if it will run faster than th
 
 ### Advantages & Disadvantages of Refactoring Code:
 
-The script run faster with the refactored code, but you can potentially introduce bugs that your tests will not catch. You can accidently remove something or paste a redundant code.
+The script run faster with the refactored code, but you can potentially introduce bugs that your tests will not catch. You can accidentally remove something or paste a redundant code.
 
 ### Advantages & Disadvantages of The Original & Refactored Code:
 
